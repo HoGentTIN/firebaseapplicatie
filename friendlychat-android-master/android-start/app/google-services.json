@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1091521805474-5g9mo1394ajo9pnb4tqsrkalrf39aqt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "589d06cd9c74603861477c740dced138b474e1e8"
+          }
+        },
+        {
           "client_id": "1091521805474-mr2judvmtitp60uepj62rifuku871heq.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091521805474-mr2judvmtitp60uepj62rifuku871heq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
